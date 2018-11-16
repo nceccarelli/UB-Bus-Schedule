@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">UB Bus Schedule</string>
+    <string name="switch_label">Weekday / Weekend</string>
+    <string name="title_activity_open_schedule">OpenSchedule</string>
+    <string name="title_activity_choose_point">ChoosePoint</string>
+    <string name="choose_schedule">Choose Schedule</string>
+    <string name="stampede">Stampede Schedules</string>
+    <string name="shuttle">Shuttle Schedules</string>
+    <string name="mall_market">Mall/Market and Fun Run Schedules</string>
+    <string-array name="stampede_array">
+        <item>Tap to Select a Schedule</item>
+        <item>Monday-Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Lee-Ellicott Express (Red Line) Mon-Fri</item>
+        <item>North-South Express (Yellow Line) Mon-Fri</item>
+        <item>Governors-SU-Lee Loop-Ellicott Express Fri-Sat</item>
+        <item>Overnight Fri-Sat</item>
+        <item>Overnight Sun-Thu</item>
+    </string-array>
+    <string-array name="shuttle_array">
+        <item>Tap to Select a Schedule</item>
+        <item>Blue Line (South to Downtown) Mon-Fri</item>
+        <item>North Campus Mon-Fri</item>
+        <item>Green Line (CFT-Crofts-Flint Loop-Flint Village) Mon-Fri</item>
+        <item>North Campus Sat-Sun</item>
+    </string-array>
+    <string-array name="mall_market_array">
+        <item>Tap to Select a Schedule</item>
+        <item>WEDNESDAY Wegmans Express</item>
+        <item>FRIDAY Walden Galleria Fun Run</item>
+        <item>SATURDAY North Campus Mall-Market</item>
+        <item>SATURDAY South Campus Mall-Market</item>
+        <item>TUESDAY Asian Market Express</item>
+        <item>SATURDAY Apartment-Mall-Market Shuttle</item>
+    </string-array>
+    <string name="select_departure">Select Departure Point</string>
+
+</resources>
